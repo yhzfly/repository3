@@ -1,3 +1,5 @@
+//×¢ÊÍfunc1
+
 void func1()
 {
 	
